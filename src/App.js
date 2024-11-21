@@ -1,5 +1,6 @@
 import logo from "./logo.svg";
 import "./App.css";
+import Home from "./Home";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
         exercitationem aperiam vero accusamus laudantium, aut quisquam corrupti
         obcaecati maxime cumque?
       </p>
+      <Home />
     </div>
   );
 }
